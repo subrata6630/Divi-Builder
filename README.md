@@ -35,5 +35,5 @@ https://www.elegantthemes.com/plugins/divi-builder/documentation/right-click/
 
 
 
-** Divi Video Tutorial
+**7. Divi Video Tutorial**
 https://www.youtube.com/watch?v=BTVtpQpJRPg
